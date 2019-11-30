@@ -1,7 +1,7 @@
 apiVersion: cert-manager.io/v1alpha2
 kind: Certificate
 metadata:
-  name: kekhuay-xyz-com-tls
+  name: kekhuay-xyz
 spec:
   secretName: kekhuay-xyz
   issuerRef:
